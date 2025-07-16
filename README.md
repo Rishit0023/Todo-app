@@ -12,7 +12,6 @@ This app helps users manage tasks efficiently with clean UI and dynamic function
 ## 🚀 Features
 
 - ✅ Add new tasks to your list
-- ✏️ Edit existing tasks
 - 🗑️ Delete tasks individually
 - 💾 Save tasks to `localStorage` (data persists after page reload)
 - ⚡ Fast and smooth user interactions
